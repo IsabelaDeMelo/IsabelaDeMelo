@@ -8,8 +8,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsabelaDeMelo&layout=compact&hide_border=true&title_color=53AC7B&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=IsabelaDeMelo&bg_color=191929&color=d268c9&line=354e9f&point=53ac7b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
   ### Main skills:
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/html-0D1117?style=for-the-badge&logo=html&labelColor=0D1117)&nbsp;
